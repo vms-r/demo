@@ -1,2 +1,5 @@
 # hello-world
-course trial
+
+Hi there!!!
+
+Learning about new course...Enjoying CODING
